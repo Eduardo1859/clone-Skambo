@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;700;800&display=swap');
+
+
+* {
+  font-family: 'Poppins';
+ 
+}
+
+body{
+    background-color: #E2CE1A;
+    display:flex;
+    align-items: ;
+    justify-content: ;
+    width: 100vw;
+    height: 100vh;
+}
+
+#conteiner {
+    width: 944px;
+    height: 555px;
+    columns: 2;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    background-color: #FEFAA1;
+    border-radius: 16px;
+
+}
+
+#header{
+    width: 304px;
+    height: 555px;
+    border-radius: 16px, 0px, 0px, 16px;
+    background-color: #36320A;
+    color: white;
+    text-align: center;
+    border-radius: 16px 0px 0px 16px;
+}
+
+#header > img{
+    margin-top: 120px;
+}
+
+#header > h2 {
+    font-size: 26;
+}
+
+#header > p {
+    font-size: 23;
+}
+
+#header > button {
+    border: 5px solid white;
+}
+
+.form{
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+form > h1 {
+    width: 296px;
+    height: 50px;
+    font-weight: 500;
+    margin: 0px;
+}
+
+form > p {
+    width: 244px;
+    height: 36px;
+    font-size: medium ; 
+    font-size: 19;
+}
+
+.textfild{
+    text-align: center;
+}
+
+.textfild > input {
+    width: 480px;
+    height: 40px;
+    border-radius: 16px;
+    background-color: #E2CE1A;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+button{
+    width: 232px;
+    height: 70px;
+    background-color: #36320A;
+    color: white;
+    border-radius: 30px;
+    font-size: 23px;
+    align-items: center;
+    margin: auto;
+}

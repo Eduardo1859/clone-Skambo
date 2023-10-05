@@ -77,6 +77,8 @@ form > p {
 
 .textfild{
     text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
 .textfild > input {
@@ -87,7 +89,15 @@ form > p {
     margin-top: 15px;
     margin-bottom: 10px;
 }
-
+.textfild > img  {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    margin-top: 27px;
+    margin-right: 450px;
+    
+  
+}
 button{
     width: 232px;
     height: 70px;

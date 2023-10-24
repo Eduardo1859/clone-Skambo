@@ -36,4 +36,4 @@ Você pode conferir o design da interface no [link do Figma](https://www.figma.c
 
 O projeto está disponível em [Clone-Skambo no Vercel](https://clone-skambo-eight.vercel.app/) para visualização.
 
-Seja bem-vindo ao Clone-Sistok, e sinta-se à vontade para contribuir ou entrar em contato conosco!
+Seja bem-vindo ao Clone-Skambo, e sinta-se à vontade para contribuir ou entrar em contato conosco!

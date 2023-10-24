@@ -25,7 +25,7 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 
 ## Interface
 
-Você pode conferir o design da interface no [link do Figma](https://www.figma.com/community/file/979892246159607749) para ter uma visão detalhada de como o projeto se parece.
+Você pode conferir o design da interface no [link do Figma](https://www.figma.com/community/file/1068313361427172435/formulario-de-registro) para ter uma visão detalhada de como o projeto se parece.
 
 ## Preview
 
